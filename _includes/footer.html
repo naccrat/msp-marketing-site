@@ -39,6 +39,12 @@
         </a>
       </div>
     </div>
+
+    <div class="row pb-4">
+      <div class="col-12">
+        <p class="small text-muted mb-0">{{ site.data.settings.basic_settings.title }} is a tool for organizing your own real estate and entity records. It does not provide financial, investment, tax, or legal advice — consult a qualified professional before making decisions based on information in the app.</p>
+      </div>
+    </div>
   </div>
 
   <div class="container text-center py-3 small">
@@ -53,6 +59,7 @@
       We use cookies and other tracking technologies to improve your browsing experience on our website and to analyze our website traffic. By using this site and service you agree to the terms and policy.
       <div class="mt-2 pt-2 border-top">
         <button type="button" class="btn btn-primary btn-sm" onclick="acceptCookies()">Accept</button>
+        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="declineCookies()">Decline</button>
       </div>
     </div>
   </div>
@@ -63,13 +70,18 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    if (!localStorage.getItem("cookieAccepted")) {
+    if (!localStorage.getItem("cookieAccepted") && !localStorage.getItem("cookieDeclined")) {
       document.querySelector(".cookie-consent-banner").style.display = "block";
     }
   });
 
   function acceptCookies() {
     localStorage.setItem("cookieAccepted", "true");
+    document.querySelector(".cookie-consent-banner").style.display = "none";
+  }
+
+  function declineCookies() {
+    localStorage.setItem("cookieDeclined", "true");
     document.querySelector(".cookie-consent-banner").style.display = "none";
   }
 </script>

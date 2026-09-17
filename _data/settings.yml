@@ -1,9 +1,9 @@
 basic_settings:
   url: https://mainstreetpulse.com
-  title: HoldWise
-  title_byline: By Main Street Pulse
+  title: Hold Wise
+  title_byline: 
   tagline: Everything you own. One place to run it.
-  description: HoldWise helps DIY real estate investors organize properties, entities, income, and tax details in one place—so you always know where things stand.
+  description: Hold Wise helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
   logo: 
   logo_width: 160
   seo_image: main-street-pulse-banner.png
@@ -52,7 +52,7 @@ social_settings:
 schema:
   type: SoftwareApplication
   # name: Same as title above
-  alternateName: HoldWise
+  alternateName: HoldWise # intentionally kept one-word: captures the pre-rebrand name for search
   # image: Same as logo above
   # telephone: Same as phone above
   address:
