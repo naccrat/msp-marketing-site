@@ -1,22 +1,23 @@
-<section id="request-access" class="hw-cta hw-section">
-  <div class="container">
-    <div class="row justify-content-center">
+<section class="cta-main bg-primary bg-gradient text-light py-5 shadow-lg position-relative overflow-hidden">
+  <div class="container position-relative z-2">
+    <div class="row justify-content-center align-items-center">
       <div class="col-lg-8 text-center">
-        <p class="hw-kicker">Get started</p>
-        <h2>Request early access</h2>
-        <p class="hw-lede mb-4">Be among the first to run your properties and entities from one clear place.</p>
-        <form name="waitlist" netlify class="hw-access-form row g-2 justify-content-center align-items-stretch" action="/thank-you/">
-          <input type="hidden" name="form-name" value="waitlist">
-          <div class="col-12 col-md-7">
-            <label class="visually-hidden" for="waitlist-email">Email address</label>
-            <input id="waitlist-email" type="email" name="email" class="form-control form-control-lg" placeholder="Enter your email address" required>
+        <h1 class="display-4 fw-bold mb-3">Secure Your Early Access</h1>
+        <p class="lead mb-4">Be the first to experience the future of real estate organization. <br />Join the Main Street Pulse waitlist today!</p>
+        <form name="waitlist" netlify class="row g-2 justify-content-center align-items-center">
+          <input type="hidden" name="form-name" value="waitlist" />
+          <div class="col-12 col-md-7 mb-2 mb-md-0">
+            <input type="email" name="email" class="form-control form-control-lg border-0 shadow-sm" placeholder="Enter your email address" required style="min-height:3rem;">
           </div>
-          <div class="col-12 col-md-5">
-            <button type="submit" class="hw-btn">Request access</button>
+          <div class="col-12 col-md-auto">
+            <button type="submit" class="btn btn-light btn-lg px-5 shadow-sm text-primary" style="min-height:3rem;">
+              Join Waitlist
+            </button>
           </div>
         </form>
-        <p class="hw-fineprint">No spam, ever. Unsubscribe anytime.</p>
+        <p class="text-light opacity-75 mt-3 mb-0 small">No spam, ever. Unsubscribe anytime.</p>
       </div>
     </div>
   </div>
+  <div class="cta-bg-shape position-absolute top-0 start-0 w-100 h-100 z-1" style="pointer-events:none; opacity:0.15; background: radial-gradient(circle at 70% 30%, #fff 0%, #0d6efd 60%, #0d6efd 100%);"></div>
 </section>

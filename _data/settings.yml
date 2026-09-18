@@ -1,9 +1,9 @@
 basic_settings:
   url: https://mainstreetpulse.com
-  title: Hold Wise
-  title_byline: 
-  tagline: Everything you own. One place to run it.
-  description: Hold Wise helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
+  title: Main Street
+  title-sub: Pulse
+  tagline: Your Ultimate Solution for Entity & Real Estate Tracking!
+  description: Main Street Pulse helps you keep track of all your business entities and properties in one convenient place. You can easily monitor your businesses, track your real estate holdings, and stay on top of important dates and milestones.
   logo: 
   logo_width: 160
   seo_image: main-street-pulse-banner.png
@@ -15,8 +15,8 @@ basic_settings:
   register: /payment/
 
 font_settings:
-  font_embed: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap"
-  title_font: 'Fraunces'
+  font_embed: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Cormorant+Garamond:wght@400;500;600&display=swap" 
+  title_font: 'Cormorant Garamond'
   body_font: 'Inter'
 
 # Custom Navbar Colors
@@ -31,10 +31,10 @@ navbar_colors:
 
 # Background color for the call to action box
 cta:
-  bg: "#0b3a6e"
+  bg: "#00303c"
 
 hero:
-  bg: "#f6f3ee"
+  bg: "#f7f6f2"
 
 # Background color for the form submission box 
 form: 
@@ -52,7 +52,7 @@ social_settings:
 schema:
   type: SoftwareApplication
   # name: Same as title above
-  alternateName: HoldWise # intentionally kept one-word: captures the pre-rebrand name for search
+  alternateName: MSP
   # image: Same as logo above
   # telephone: Same as phone above
   address:

@@ -1,7 +1,11 @@
-<nav class="navbar navbar-expand-lg navbar-custom hw-nav fixed-top">
+<nav class="navbar navbar-expand-lg navbar-custom fixed-top">
   <div class="container">
-    <a class="navbar-brand pe-4" href="/">
-      {% include brand.html %}
+    <a class="navbar-brand pe-4" href="{{ site.url }}">
+      {% if site.data.settings.basic_settings.logo %}
+      <img src="{{ site.url }}/assets/images/{{ site.data.settings.basic_settings.logo }}" width="{{ site.data.settings.basic_settings.logo_width }}" alt="{{ site.data.settings.basic_settings.title }}">
+      {% else %}
+      <span class="ms-1 h4">{{ site.title }}</span> <strong class="font-bold">{{ site.title-sub }}</strong>
+      {% endif %}
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -35,16 +39,19 @@
               </li>
               {% else %}
               <li class="nav-item">
-                <a class="nav-link {{ class }}" href="{{ link.url }}">
+                <a class="nav-link {{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">
                   {{ link.title }}
                 </a>
               </li>
             {% endif %}
         {% endfor %}
       </ul>
-      <a href="/#request-access" class="hw-btn px-3 py-2 ms-lg-3">
-        Request access
+      <a href="https://app.mainstreetpulse.com/" target="_blank" rel="nofollow" data-splitbee-event="Log in" aria-label="Log in" class="btn btn-light px-3 py-2 me-2">
+        Log in
       </a>
+      <!-- <a href="{{ site.data.settings.basic_settings.register }}" data-splitbee-event="Sign up" aria-label="Sign up" class="btn btn-primary px-3 py-2">
+        Sign up
+      </a> -->
     </div>
   </div>
 </nav>
