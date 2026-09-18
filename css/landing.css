@@ -107,7 +107,8 @@ body {
 }
 
 .hw-nav .navbar-brand-text .small {
-  display: none;
+  color: var(--hw-ink);
+  line-height: 1.2;
 }
 
 .hw-nav .nav-link {
