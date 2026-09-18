@@ -4,41 +4,28 @@ title: Sign up for Main Street Pulse.
 description: Sign up for Main Street Pulse using a Stripe. 
 ---
     <style>
-        body {
-            background-color: #f8f9fa;
-        }
         .pricing-card {
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            height: 100%;
             transition: transform 0.3s ease-in-out;
         }
         .pricing-card:hover {
-            transform: scale(1.05);
+            transform: translateY(-4px);
         }
-        .btn-primary {
-            background-color: #007bff;
-            border: none;
-        }
-        .btn-primary:hover {
-            background-color: #0056b3;
-        }
-        .btn-custom {
-            background-color: #313da7;
-            color: #fff;
-            border: none;
-            line-height: 2em;
+        .pricing-card.border-primary {
+            border-color: var(--hw-blue) !important;
+            box-shadow: 0 16px 40px rgba(11, 58, 110, 0.14);
         }
     </style>
 
     <div class="container text-center py-5">
-        <h2 class="mb-4">Choose Your Plan</h2>
+        <h2 class="mb-4 h3">Choose your plan</h2>
         <div class="row">
             <div class="col-md-4">
                 <div class="card pricing-card p-4">
                     <h3>Basic</h3>
                     <p class="text-muted">This plan is designed for individuals looking to track real estate and business assets.</p>
                     <p class="display-6">$20<span class="small">/month</span></p>
-                    <ul class="list-unstyled"
+                    <ul class="list-unstyled">
                         <li><i class="bi bi-check text-secondary"></i> Unlimited real estate tracking</li>
                         <li><i class="bi bi-check text-secondary"></i> Unlimited business entity tracking</li>
                         <li><i class="bi bi-check text-secondary"></i> Wealth Funnel Visualization (Trifecta)</li>
@@ -58,9 +45,9 @@ description: Sign up for Main Street Pulse using a Stripe.
                 <div class="card pricing-card p-4 border-primary">
                     <h3 class="text-primary">Pro</h3>
                     <p class="text-muted">This plan is designed for investors looking for advanced features to manage their assets.</p>
-                    <p class="display-6">$25<span class="small">/month</span></h2>
+                    <p class="display-6">$25<span class="small">/month</span></p>
                     <ul class="list-unstyled">
-                      <i class="bi bi-check text-secondary"></i> Everything in <strong>Basic</strong> plus</li>
+                      <li><i class="bi bi-check text-secondary"></i> Everything in <strong>Basic</strong> plus</li>
                       <li class="list-group-item"><i class="bi bi-check text-secondary"></i> Document storage</li>
                       <li class="list-group-item"><i class="bi bi-check text-secondary"></i> Portfolio growth & income simulator</li>
                     </ul>
@@ -80,7 +67,7 @@ description: Sign up for Main Street Pulse using a Stripe.
                     <h3>Business</h3>
                     <p class="text-muted">This plan is for businesses looking to help their clients track their real estate and business assets.</p>
                     <p>Offer your clients everything in the Pro plan with the benefit of being able to manage their accounts and assets. This is perfect for CPA, EA, Accountant, or Tax Attoneys. Learn more <a href="/client-portal/">here</a></p>
-                    <a href="/client-portal/" class="btn btn-custom">Request a quote</a>
+                    <a href="/client-portal/" class="hw-btn hw-btn-lg">Request a quote</a>
                 </div>
             </div>
         </div>

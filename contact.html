@@ -1,21 +1,18 @@
 ---
-layout: default
+layout: page-2
 permalink: /contact/
 title: Contact Us
 meta_description: Contact page for 325 studio.
 main-image: bg-image.jpeg
 ---
-
-<div class="py-vh-3 w-100 overflow-hidden">
+<section class="hw-section-sm">
   <div class="container">
-    <div class="row d-flex ">
-      <div class="col-lg-7">
-        <h2 class="display-6">Contact Us</h2>
-        <p></p>
+    <div class="row justify-content-center">
+      <div class="col-md-8 col-lg-6">
+        <div class="hw-card p-4 p-md-5">
+          {% include form.html %}
+        </div>
       </div>
-      <!-- col-lg-5 FORM-->
-        {% include form.html %}
-
     </div>
   </div>
-</div>
+</section>

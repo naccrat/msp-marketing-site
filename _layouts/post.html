@@ -2,20 +2,20 @@
   <body data-bs-spy="scroll" data-bs-target="#navScroll">
   {% include nav.html %}
   <main>
-    <div class="py-vh-5 mt-5 w-100 overflow-hidden">
+    <div class="hw-article w-100 overflow-hidden">
       <div class="container">
         <div class="row d-flex justify-content-center">
           <div class="col-12 col-lg-10 col-xl-8">
-            <a class="me-3 my-5 link-fancy" href="/articles/">
+            <a class="hw-back" href="/articles/">
               <i class="bi bi-arrow-left"></i> Back to articles
             </a>
-            <h1>{{ page.title }}</h1>
-            <p class="small">{{ page.date | date_to_string }} - {{ page.author }}</p> 
+            <h1 class="hw-display">{{ page.title }}</h1>
+            <p class="hw-meta">{{ page.date | date_to_string }} - {{ page.author }}</p> 
             {% if page.categories %}
             <p><span class="badge bg-light text-dark">{{ page.categories }}</span></p>
             {% endif %}
             {{ content }}
-            <hr class="pt-3">
+            <hr class="hw-rule">
             <nav class="post-navigation">
               {% if page.previous %}
                 <a href="{{ page.previous.url }}" class="prev-post link-fancy" title="{{ page.previous.title }}">Previous: {{ page.previous.title }}</a>

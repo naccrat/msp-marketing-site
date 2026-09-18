@@ -444,3 +444,228 @@ body {
   background: var(--hw-blue);
   border-color: var(--hw-blue);
 }
+
+/* ==========================================================================
+   Inner pages: shared look & feel
+   Everything below restyles the older Bootstrap/theme.css markup used by the
+   non-homepage pages so it matches the homepage above.
+   ========================================================================== */
+
+/* Page header (css: _includes/page-hero.html) */
+.hw-page-hero {
+  padding: 8.5rem 0 3.5rem;
+  background: var(--hw-cream);
+}
+
+.hw-page-hero-center {
+  text-align: center;
+}
+
+.hw-page-hero .hw-display {
+  margin-bottom: 1rem;
+  font-size: clamp(2.1rem, 4.4vw, 3.4rem);
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.hw-page-hero .hw-lede {
+  max-width: 42rem;
+  margin: 0 0 1.5rem;
+}
+
+.hw-page-hero-center .hw-lede {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hw-page-hero img:not(.hw-partner-logo) {
+  border-radius: 1.5rem;
+  box-shadow: 0 28px 70px rgba(11, 58, 110, 0.16);
+}
+
+/* Content blocks that sit directly under the header don't need their own big top gap */
+.hw-page-hero + div[class*="py-vh"]:not([class*="bg-"]) {
+  padding-top: 2rem;
+}
+
+.hw-meta {
+  margin: 0 0 1rem;
+  font-size: 0.85rem;
+  color: var(--hw-muted);
+}
+
+.hw-breadcrumb .breadcrumb {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.hw-breadcrumb a {
+  color: var(--hw-muted);
+  text-decoration: none;
+}
+
+.hw-breadcrumb a:hover {
+  color: var(--hw-blue);
+}
+
+.hw-breadcrumb .breadcrumb-item.active {
+  color: var(--hw-ink);
+}
+
+/* Buttons */
+.hw-btn-lg {
+  min-height: 3.25rem;
+  padding: 0 1.6rem;
+  font-size: 1rem;
+  white-space: nowrap;
+}
+
+.hw-btn-inverse,
+.hw-cta .hw-btn-inverse {
+  background: #fff;
+  color: var(--hw-blue);
+}
+
+.hw-btn-inverse:hover,
+.hw-btn-inverse:focus,
+.hw-cta .hw-btn-inverse:hover,
+.hw-cta .hw-btn-inverse:focus {
+  background: var(--hw-blue-soft);
+  color: var(--hw-blue-dark);
+}
+
+.btn-primary,
+.btn-dark {
+  --bs-btn-bg: var(--hw-blue);
+  --bs-btn-border-color: var(--hw-blue);
+  --bs-btn-hover-bg: var(--hw-blue-dark);
+  --bs-btn-hover-border-color: var(--hw-blue-dark);
+  --bs-btn-active-bg: var(--hw-blue-dark);
+  --bs-btn-active-border-color: var(--hw-blue-dark);
+  --bs-btn-disabled-bg: var(--hw-blue);
+  --bs-btn-disabled-border-color: var(--hw-blue);
+  --bs-btn-focus-shadow-rgb: 11, 58, 110;
+  --bs-btn-border-radius: var(--hw-radius-sm);
+  font-weight: 600;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: var(--hw-blue);
+  --bs-btn-border-color: var(--hw-blue);
+  --bs-btn-hover-bg: var(--hw-blue);
+  --bs-btn-hover-border-color: var(--hw-blue);
+  --bs-btn-active-bg: var(--hw-blue-dark);
+  --bs-btn-active-border-color: var(--hw-blue-dark);
+  --bs-btn-border-radius: var(--hw-radius-sm);
+}
+
+.btn-light,
+.btn-xl {
+  --bs-btn-border-radius: var(--hw-radius-sm);
+}
+
+.text-primary {
+  color: var(--hw-blue) !important;
+}
+
+.border-primary {
+  border-color: var(--hw-blue) !important;
+}
+
+/* Cards */
+.card,
+.hw-card {
+  border: 1px solid var(--hw-line);
+  border-radius: var(--hw-radius);
+  background: var(--hw-white);
+  box-shadow: 0 10px 30px rgba(11, 58, 110, 0.06);
+  overflow: hidden;
+}
+
+.card {
+  --bs-card-border-color: var(--hw-line);
+  --bs-card-border-radius: var(--hw-radius);
+  --bs-card-inner-border-radius: calc(var(--hw-radius) - 1px);
+}
+
+.card-title {
+  letter-spacing: -0.02em;
+}
+
+/* Bands: swap Bootstrap greys for the homepage palette */
+.bg-gray-100 {
+  background-color: var(--hw-white);
+}
+
+.bg-gray-200 {
+  background-color: var(--hw-cream-2);
+}
+
+/* Forms */
+.form-control,
+.form-select {
+  border-color: #d8d2c8;
+  border-radius: var(--hw-radius-sm);
+  background-color: var(--hw-white);
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--hw-blue);
+  box-shadow: 0 0 0 0.2rem rgba(11, 58, 110, 0.16);
+}
+
+/* Articles, support docs and testimonials */
+.hw-article {
+  padding: 8.5rem 0 4rem;
+}
+
+.hw-article .hw-display {
+  margin-bottom: 0.75rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.hw-back {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--hw-blue);
+  text-decoration: none;
+}
+
+.hw-back:hover {
+  color: var(--hw-blue-dark);
+  text-decoration: underline;
+}
+
+.hw-article .badge {
+  border-radius: 999px;
+  background: var(--hw-blue-soft) !important;
+  color: var(--hw-blue) !important;
+  font-weight: 600;
+}
+
+.hw-article img {
+  border-radius: var(--hw-radius-sm);
+}
+
+.hw-rule {
+  margin: 2.5rem 0 1.5rem;
+  border-color: var(--hw-line);
+  opacity: 1;
+}
+
+.hw-article .post-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.hw-article .post-navigation a {
+  color: var(--hw-blue);
+  font-weight: 600;
+}

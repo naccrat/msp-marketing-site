@@ -1,0 +1,35 @@
+{% comment %}
+  Shared header for every inner page.
+  Reads page.title, page.description and page.last_update.
+  Options: image=<file in /assets/images/>, cta=true, breadcrumb=true, center=true
+{% endcomment %}
+{% assign hero_image = include.image %}
+{% if hero_image == 'empty.png' or hero_image == '' %}{% assign hero_image = nil %}{% endif %}
+<section class="hw-page-hero{% if include.center %} hw-page-hero-center{% endif %}">
+  <div class="container">
+    <div class="row {% if include.center %}justify-content-center{% else %}align-items-center{% endif %}">
+      <div class="{% if hero_image %}col-lg-6{% elsif include.center %}col-lg-8{% else %}col-lg-10{% endif %}">
+        {% if include.breadcrumb %}
+        <nav aria-label="breadcrumb" class="hw-breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+            <li class="breadcrumb-item"><a href="/tools/">Tools</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+          </ol>
+        </nav>
+        {% endif %}
+        <h1 class="hw-display">{{ page.title }}</h1>
+        {% if page.description %}<p class="hw-lede">{{ page.description }}</p>{% endif %}
+        {% if page.last_update %}<p class="hw-meta">{{ page.last_update }}</p>{% endif %}
+        {% if include.cta %}
+        <a class="hw-btn hw-btn-lg" href="https://app.mainstreetpulse.com/register" target="_blank">Sign up for free</a>
+        {% endif %}
+      </div>
+      {% if hero_image %}
+      <div class="col-lg-6 mt-4 mt-lg-0">
+        <img src="/assets/images/{{ hero_image }}" alt="{{ page.title }}" class="img-fluid">
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>

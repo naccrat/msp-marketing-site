@@ -4,21 +4,10 @@ title: 404 Page not found
 description: Our pulse skipped a beat!
 permalink: /404.html
 ---
-<div class="w-100 overflow-hidden">
-  <div class="container-fluid position-relative">
-    <div class="container">
-      <div class="row d-flex justify-content-between align-items-center text-center">
-        <div class="col-12 py-vh-5 order-sm-2">
-          <h1 class="h4 mt-5 pt-3">{{ page.title }}</h1>
-          <h2 class="h1">{{ page.description }}</h2>
-          <p>
-            You're in uncharted territory. How about we guide you back to Main Street?
-          </p>
-          <p>
-            <a href="/index/" class="link-fancy">Back to homepage</a>
-          </p>
-        </div>
-      </div>
-    </div>
+{% include page-hero.html center=true %}
+<section class="hw-section-sm text-center">
+  <div class="container">
+    <p class="hw-lede">You're in uncharted territory. How about we guide you back to Main Street?</p>
+    <a href="/" class="hw-btn hw-btn-lg">Back to homepage</a>
   </div>
-</div>
+</section>
