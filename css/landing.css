@@ -279,42 +279,6 @@ body {
   line-height: 1.55;
 }
 
-/* Feature tabs */
-.hw-tabs {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem 1.5rem;
-  margin-bottom: 2.5rem;
-  border-bottom: 1px solid var(--hw-line);
-}
-
-.hw-tab {
-  appearance: none;
-  background: none;
-  border: 0;
-  border-bottom: 2px solid transparent;
-  margin-bottom: -1px;
-  padding: 0.85rem 0.25rem;
-  font-family: inherit;
-  font-weight: 600;
-  color: var(--hw-muted);
-  cursor: pointer;
-}
-
-.hw-tab.is-active {
-  color: var(--hw-blue);
-  border-bottom-color: var(--hw-blue);
-}
-
-.hw-tab-panel {
-  display: none;
-}
-
-.hw-tab-panel.is-active {
-  display: block;
-}
-
 .hw-feature-copy h2 {
   font-size: clamp(1.9rem, 3.4vw, 2.8rem);
   margin-bottom: 1rem;
