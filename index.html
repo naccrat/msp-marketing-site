@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Everything you own. One place to run it.
-description: Hold Wise helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
+description: Hold Wise by Main Street Pulse helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
 image: hero-people.png
 ---
 <div class="hw-page">
@@ -10,25 +10,9 @@ image: hero-people.png
     <div class="container">
       <p class="hw-kicker">The modern way to run what you own</p>
       <h1 class="hw-display">Everything you own.<br>One place to run it.</h1>
-      <p class="hw-lede">Hold Wise brings your real estate properties and business entities into one clear view—so DIY investors always know where things stand.</p>
+      <p class="hw-lede">Hold Wise by Main Street Pulse brings your real estate properties and business entities into one clear view—so DIY investors always know where things stand.</p>
 
-      <form name="waitlist" netlify class="hw-access-form row g-2 align-items-stretch" action="/thank-you/">
-        <input type="hidden" name="form-name" value="waitlist">
-        <div class="col-12 col-sm">
-          <label class="visually-hidden" for="hero-email">Email address</label>
-          <input id="hero-email" type="email" name="email" class="form-control form-control-lg" placeholder="Enter your email address" required>
-        </div>
-        <div class="col-12 col-sm-auto">
-          <button type="submit" class="hw-btn">Join the waiting list</button>
-        </div>
-        <div class="col-12">
-          <div class="form-check text-start hw-beta-check">
-            <input class="form-check-input" type="checkbox" name="beta_interest" value="yes" id="beta-interest">
-            <label class="form-check-label" for="beta-interest">I'd like to help test the app and share feedback before launch</label>
-          </div>
-        </div>
-      </form>
-      <p class="hw-fineprint">Waitlist members get early access and exclusive launch pricing when Hold Wise goes live in early 2027. No spam, unsubscribe anytime.</p>
+      <a class="hw-btn hw-btn-lg" href="{{ site.data.settings.basic_settings.register }}">Sign up for free</a>
 
       <div class="hw-hero-photo">
         <img src="/assets/images/hero-people.png" alt="Partners reviewing their portfolio together in Hold Wise">
@@ -176,6 +160,17 @@ image: hero-people.png
     </div>
   </section>
 
-  {% include waitlist.html %}
+  <section class="hw-cta hw-section">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-8 text-center">
+          <p class="hw-kicker">Get started</p>
+          <h2>Run everything you own from one place</h2>
+          <p class="hw-lede mb-4">Organize your properties and business entities in one clear view.</p>
+          <a class="hw-btn hw-btn-lg hw-btn-inverse" href="{{ site.data.settings.basic_settings.register }}">Sign up for free</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
 </div>

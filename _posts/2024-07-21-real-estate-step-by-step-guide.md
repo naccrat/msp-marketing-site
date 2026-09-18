@@ -31,4 +31,4 @@ image: /assets/articles/real-estate-dream-big.jpg
 
 <p>Remember, becoming a successful rental property owner takes time and effort. But with this guide and a little hard work, you'll be on your way to real estate greatness in no time!</p>
 <hr class="w-25 mx-auto py-1">
-<p>If you need help with this process, contact Done For Your Real Estate. They are your boots on the ground and can help with most of the steps so you can get into the investment game sooner. <a href="/partners/done-for-you-real-estate/">Learn more about their process here</a> and make sure to tell them Main Street Pulse sent you.</p>
+<p>If you need help with this process, contact Done For Your Real Estate. They are your boots on the ground and can help with most of the steps so you can get into the investment game sooner. <a href="/partners/done-for-you-real-estate/">Learn more about their process here</a> and make sure to tell them Hold Wise by Main Street Pulse sent you.</p>

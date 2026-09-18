@@ -22,7 +22,7 @@
         {% if page.description %}<p class="hw-lede">{{ page.description }}</p>{% endif %}
         {% if page.last_update %}<p class="hw-meta">{{ page.last_update }}</p>{% endif %}
         {% if include.cta %}
-        <a class="hw-btn hw-btn-lg" href="https://app.mainstreetpulse.com/register" target="_blank">Sign up for free</a>
+        <a class="hw-btn hw-btn-lg" href="{{ site.data.settings.basic_settings.register }}">Sign up for free</a>
         {% endif %}
       </div>
       {% if hero_image %}

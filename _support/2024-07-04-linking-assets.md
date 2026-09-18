@@ -4,7 +4,7 @@ title: "Linking assets"
 author: Main Street Pulse
 description: "Learn how to link your real estate and business entities."
 ---
-<p>Main Street Pulse's goal is to give you an overview of your portfolio and help you see how everything works together as you plan and manage your wealth. Adding assets will give you a better idea of how everything is structured.</p>
+<p>Hold Wise's goal is to give you an overview of your portfolio and help you see how everything works together as you plan and manage your wealth. Adding assets will give you a better idea of how everything is structured.</p>
 <p><img src="/assets/support/business-assets-tab.png" alt="Business assets page" class="w-75 img-thumbnail img-fluid"></p>
 <p>Go into the business entity you want to manage and click on the Assets tab. Click on <strong>"Add assets,"</strong> and this will give you the option to:</p>
 <ul>

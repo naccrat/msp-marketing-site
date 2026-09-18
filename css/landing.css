@@ -155,61 +155,6 @@ body {
   margin: 0 auto 2rem;
 }
 
-.hw-access-form {
-  max-width: 36rem;
-  margin: 0 auto;
-}
-
-.hw-access-form [class*="col-"] {
-  display: flex;
-}
-
-.hw-access-form .form-control,
-.hw-access-form .hw-btn {
-  height: 3.4rem;
-  min-height: 3.4rem;
-  width: 100%;
-  box-sizing: border-box;
-  padding: 0 1.15rem;
-  font-size: 1rem;
-  line-height: 1.25;
-  border-radius: var(--hw-radius-sm);
-}
-
-.hw-access-form .form-control {
-  border: 1px solid #d8d2c8;
-  background: var(--hw-white);
-  box-shadow: 0 8px 24px rgba(11, 58, 110, 0.06);
-}
-
-.hw-access-form .form-control:focus {
-  border-color: var(--hw-blue);
-  box-shadow: 0 0 0 0.2rem rgba(11, 58, 110, 0.16);
-}
-
-.hw-access-form .hw-btn {
-  border: 1px solid var(--hw-blue);
-  white-space: nowrap;
-}
-
-.hw-beta-check {
-  max-width: 36rem;
-  margin: 0.75rem auto 0;
-  padding-left: 0.25rem;
-}
-
-.hw-beta-check .form-check-label {
-  font-size: 0.9rem;
-  color: var(--hw-muted);
-}
-
-.hw-fineprint {
-  margin-top: 0.85rem;
-  margin-bottom: 0;
-  font-size: 0.85rem;
-  color: var(--hw-muted);
-}
-
 .hw-hero-photo {
   margin-top: 3.5rem;
 }
@@ -384,7 +329,6 @@ body {
 }
 
 .hw-cta .hw-kicker,
-.hw-cta .hw-fineprint,
 .hw-cta .hw-lede {
   color: rgba(255, 255, 255, 0.78);
 }
@@ -393,16 +337,6 @@ body {
   color: #fff;
   font-size: clamp(2rem, 4vw, 3.2rem);
   margin-bottom: 1rem;
-}
-
-.hw-cta .hw-access-form .form-control {
-  border-color: transparent;
-}
-
-.hw-cta .hw-access-form .hw-btn {
-  background: #fff;
-  color: var(--hw-blue);
-  border-color: #fff;
 }
 
 .hw-cta .hw-btn:hover,

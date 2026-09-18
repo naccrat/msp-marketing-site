@@ -1,9 +1,10 @@
 basic_settings:
   url: https://mainstreetpulse.com
   title: Hold Wise
+  full_title: Hold Wise by Main Street Pulse
   title_byline: By Main Street Pulse
   tagline: Everything you own. One place to run it.
-  description: Hold Wise helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
+  description: Hold Wise by Main Street Pulse helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
   logo: 
   logo_width: 160
   seo_image: main-street-pulse-banner.png
@@ -12,7 +13,7 @@ basic_settings:
   google_analytics: G-X42QB5MTMC
   location: "Salt Lake City, Utah"
   state: Utah
-  register: /payment/
+  register: https://app.mainstreetpulse.com/register
 
 font_settings:
   font_embed: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap"

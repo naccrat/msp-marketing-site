@@ -2,7 +2,7 @@
 layout: post
 title: "The Power of Business Entity Management"
 author: Tony Naccarato
-description: "Unlocking Your Wealth Potential with Main Street Pulse. The Power of Business Entity Management."
+description: "Unlocking Your Wealth Potential with Hold Wise by Main Street Pulse. The Power of Business Entity Management."
 category: Business
 image: /assets/articles/business-entity.jpg
 ---
@@ -35,8 +35,8 @@ image: /assets/articles/business-entity.jpg
 <p>Remember, you don't have to navigate this alone. By seeking guidance from qualified professionals, you can develop a strong business entity management system and a rock-solid revocable trust that empowers you to manage your wealth effectively and ensure your loved ones are taken care of in the future.</p>
 
 <h2>Enhancing Your System with Technology</h2>
-<p>While a strong foundation is crucial, consider incorporating technology to streamline your business entity management further. Tools like <a href="/">Main Street Pulse</a> can be a game-changer.</p>
-<p>Main Street Pulse offers a user-friendly platform specifically designed for real estate investors and business owners. It helps you:</p>
+<p>While a strong foundation is crucial, consider incorporating technology to streamline your business entity management further. Tools like <a href="/">Hold Wise</a> can be a game-changer.</p>
+<p>Hold Wise offers a user-friendly platform specifically designed for real estate investors and business owners. It helps you:</p>
 <ul>
     <li><strong>Centralize Your Information:</strong> Store all your business entity documents, financial records, and asset details in one secure location.</li>
     <li><strong>Track Deadlines:</strong> Get reminders for important dates like renewals, loan payments, etc.</li>
