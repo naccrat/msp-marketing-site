@@ -36,6 +36,20 @@ body {
   letter-spacing: -0.03em;
 }
 
+.hw-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  background: var(--hw-blue-soft);
+  font-family: var(--bs-font-sans-serif);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--hw-blue);
+}
+
 .hw-kicker {
   display: inline-block;
   margin-bottom: 1rem;
