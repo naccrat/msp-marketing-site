@@ -35,7 +35,7 @@ image: /assets/articles/business-entity.jpg
 <p>Remember, you don't have to navigate this alone. By seeking guidance from qualified professionals, you can develop a strong business entity management system and a rock-solid revocable trust that empowers you to manage your wealth effectively and ensure your loved ones are taken care of in the future.</p>
 
 <h2>Enhancing Your System with Technology</h2>
-<p>While a strong foundation is crucial, consider incorporating technology to streamline your business entity management further. Tools like <a href="https://mainstreetpulse.com/">Main Street Pulse</a> can be a game-changer.</p>
+<p>While a strong foundation is crucial, consider incorporating technology to streamline your business entity management further. Tools like <a href="/">Main Street Pulse</a> can be a game-changer.</p>
 <p>Main Street Pulse offers a user-friendly platform specifically designed for real estate investors and business owners. It helps you:</p>
 <ul>
     <li><strong>Centralize Your Information:</strong> Store all your business entity documents, financial records, and asset details in one secure location.</li>

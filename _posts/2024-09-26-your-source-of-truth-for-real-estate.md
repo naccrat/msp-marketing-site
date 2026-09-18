@@ -14,14 +14,14 @@ image: /assets/articles/source-of-truth-wealth.jpg
     For individual real estate investors, the journey can often feel daunting. From tracking properties and understanding business entities to managing critical deadlines and documents, the workload can quickly become overwhelming. Main Street Pulse acts as your central hub, simplifying these complexities and transforming how you manage your investments.
 </p>
 <p>
-    With Main Street Pulse, you can <a href="https://mainstreetpulse.com/tracking/">track all your property</a> details in one place. The platform allows you to organize information related to each investment, including purchase dates, market values, and key documents like deeds and contracts. This organized approach helps you make informed decisions based on accurate data.
+    With Main Street Pulse, you can <a href="/tracking/">track all your property</a> details in one place. The platform allows you to organize information related to each investment, including purchase dates, market values, and key documents like deeds and contracts. This organized approach helps you make informed decisions based on accurate data.
 </p>
 <p>
     The time-sensitive tracking feature alerts you to important dates, such as tax deadlines, lease renewals, or mortgage payments. Missing these dates can lead to costly penalties or missed opportunities, but you'll never have to worry with Main Street Pulse. The platform ensures you remain on top of your responsibilities, allowing you to focus on growing your wealth.
 </p>
 <h2>Supporting Partnerships: Collaboration Made Easy</h2>
 <p>
-    Investing in real estate with partners can be both rewarding and challenging. Effective communication and transparency are essential to ensure everyone is on the same page. Main Street Pulse provides tools that foster collaboration, like the <a href="https://mainstreetpulse.com/visualize/">Wealth Funnel</a>, among partners by serving as a shared source of truth.
+    Investing in real estate with partners can be both rewarding and challenging. Effective communication and transparency are essential to ensure everyone is on the same page. Main Street Pulse provides tools that foster collaboration, like the <a href="/visualize/">Wealth Funnel</a>, among partners by serving as a shared source of truth.
 </p>
 <p>
     Each partner can access the same information regarding properties, financial data, and important documents. This shared platform minimizes the risk of miscommunication and ensures everyone has the latest updates.

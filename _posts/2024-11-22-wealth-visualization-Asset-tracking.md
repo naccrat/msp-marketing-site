@@ -11,15 +11,15 @@ image: /assets/images/businss-entity-visualize.png
 
 <p>Visualizing financial growth is essential for effective financial planning and tax planning. It provides a clear picture of where you currently stand financially. This clarity helps in setting realistic goals and identifying strategies for achieving them. Additionally, it allows for tracking progress over time. Financial goals can seem abstract, but visualization makes them tangible. It provides motivation and insight into one's wealth-building strategies.</p>
 
-<p><a href="https://mainstreetpulse.com/visualize/">Wealth visualization</a> also enhances asset tracking. By understanding financial trends visually, one can make informed decisions. This approach fosters better financial habits and encourages proactive wealth-building strategies.</p>
+<p><a href="/visualize/">Wealth visualization</a> also enhances asset tracking. By understanding financial trends visually, one can make informed decisions. This approach fosters better financial habits and encourages proactive wealth-building strategies.</p>
 
 <p><img src="{{ page.image }}" alt="{{ page.description }}" class="img-fluid"></p>
 
 <h2>Introduction to Main Street Pulse and Its Mission</h2>
 
-<p><a href="https://mainstreetpulse.com/">Main Street Pulse</a> is a financial management platform designed to empower individuals in their wealth-building strategies. Its mission focuses on improving financial organization and enhancing asset tracking. The platform aims to change how users visualize their wealth and financial growth. Users can easily navigate their financial landscape. This empowers them to make informed decisions and take control of their financial futures.</p>
+<p><a href="/">Main Street Pulse</a> is a financial management platform designed to empower individuals in their wealth-building strategies. Its mission focuses on improving financial organization and enhancing asset tracking. The platform aims to change how users visualize their wealth and financial growth. Users can easily navigate their financial landscape. This empowers them to make informed decisions and take control of their financial futures.</p>
 
-<p>Main Street Pulse offers several key features that support effective <a href="https://mainstreetpulse.com/visualize/">wealth visualization</a>. These features include:</p>
+<p>Main Street Pulse offers several key features that support effective <a href="/visualize/">wealth visualization</a>. These features include:</p>
 <ul>
     <li><strong>User-friendly interface:</strong> Provides a clear view of assets and liabilities.</li>
     <li><strong>Financial organization tools:</strong> Helps users categorize investments and expenses.</li>
@@ -37,7 +37,7 @@ image: /assets/images/businss-entity-visualize.png
 
 <h2>How Main Street Pulse Assists with Real-Time Asset Tracking</h2>
 
-<p><a href="https://mainstreetpulse.com/visualize/"><img src="/assets/images/businss-entity-visualize.png" alt="{{ page.description }}" class="img-fluid"></a></p>
+<p><a href="/visualize/"><img src="/assets/images/businss-entity-visualize.png" alt="{{ page.description }}" class="img-fluid"></a></p>
 
 <p>Main Street Pulse stands out in asset tracking by offering a single tool for your financial assets. Its user-friendly interface allows users to input data effortlessly. This ensures that asset tracking is accurate and timely, crucial for making quick investment decisions. Accurate asset tracking significantly impacts wealth-building strategies:</p>
 <ul>
@@ -65,4 +65,4 @@ image: /assets/images/businss-entity-visualize.png
 
 <p>Interactive tools and apps make wealth visualization accessible to everyone, not just financial experts. Users can now monitor their investments and savings with ease. Real-time data and analytics empower users to make informed decisions. This level of access helps individuals actively manage passive income management. Personalized financial dashboards present a clearer picture of one's financial health and future potential. They simplify complex data into understandable visuals that enhance decision-making.</p>
 
-<p>This future of <a href="https://mainstreetpulse.com/visualize/">wealth visualization</a> will emphasize tracking assets and proactively managing them for sustained growth. Users will increasingly rely on these intelligent systems to navigate their financial journeys.</p>
+<p>This future of <a href="/visualize/">wealth visualization</a> will emphasize tracking assets and proactively managing them for sustained growth. Users will increasingly rely on these intelligent systems to navigate their financial journeys.</p>

@@ -9,7 +9,7 @@ image: /assets/articles/real-estate-millionaire.jpg
 <h2>The Mindset Shift to Wealth</h2>
 <p>Becoming a real estate millionaire isn't about luck or overnight success—it's about small, smart decisions that compound over time. If you've read <em>Micro Wins to Millions</em>, you know that building wealth through real estate is a process of consistency, patience, and strategy. The key is to focus on small, achievable wins that lead to financial freedom.</p>
 
-<p>Many real estate investors are already millionaires but don't realize it. Why? Because they haven't tracked their portfolio value, equity, and cash flow in a way that shows the complete picture of their wealth. That's where <a href="https://mainstreetpulse.com/">Main Street Pulse</a> (MSP) comes in.</p>
+<p>Many real estate investors are already millionaires but don't realize it. Why? Because they haven't tracked their portfolio value, equity, and cash flow in a way that shows the complete picture of their wealth. That's where <a href="/">Main Street Pulse</a> (MSP) comes in.</p>
 
 <h2>The Micro Wins That Add Up</h2>
 <p>The book <em>Micro Wins to Millions</em> highlights how small, daily financial decisions create long-term wealth. Here are some of the core principles:</p>
