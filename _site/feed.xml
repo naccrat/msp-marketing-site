@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Main Street Pulse</title>
-    <description>Main Street Pulse helps you keep track of all your business entities and properties in one convenient place. You can easily monitor your businesses, track your real estate holdings, and stay on top of important dates and milestones.</description>
-    <link>http://mainstreetpulse.com/</link>
-    <atom:link href="http://mainstreetpulse.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Sep 2026 09:22:26 -0600</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 09:22:26 -0600</lastBuildDate>
+    <title>HoldWise</title>
+    <description>HoldWise helps DIY real estate investors organize properties, entities, income, and tax details in one place—so you always know where things stand.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 19 Aug 2026 16:53:59 -0600</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:53:59 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -81,8 +81,8 @@
 &lt;p&gt;&lt;strong&gt;Ready to see if you&apos;re a real estate millionaire? &lt;a href=&quot;https://app.mainstreetpulse.com/&quot;&gt;Sign up today&lt;/a&gt; and take control of your financial future!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Mar 2025 00:00:00 -0700</pubDate>
-        <link>http://mainstreetpulse.com/articles/real-estate-millionaire/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/real-estate-millionaire/</guid>
+        <link>http://localhost:4000/articles/real-estate-millionaire/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/real-estate-millionaire/</guid>
         
         
         <category>Real Estate</category>
@@ -130,8 +130,8 @@
 &lt;iframe width=&quot;100%&quot; height=&quot;266&quot; src=&quot;https://www.youtube.com/embed/X9yDurMaFGE?si=oJJfMUTSkLw17s7_&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Fri, 06 Dec 2024 00:00:00 -0700</pubDate>
-        <link>http://mainstreetpulse.com/articles/helping-families-manage-their-estate/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/helping-families-manage-their-estate/</guid>
+        <link>http://localhost:4000/articles/helping-families-manage-their-estate/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/helping-families-manage-their-estate/</guid>
         
         
         <category>Family Estate Planning</category>
@@ -202,8 +202,8 @@
 &lt;p&gt;This future of &lt;a href=&quot;https://mainstreetpulse.com/visualize/&quot;&gt;wealth visualization&lt;/a&gt; will emphasize tracking assets and proactively managing them for sustained growth. Users will increasingly rely on these intelligent systems to navigate their financial journeys.&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Nov 2024 00:00:00 -0700</pubDate>
-        <link>http://mainstreetpulse.com/articles/wealth-visualization-Asset-tracking/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/wealth-visualization-Asset-tracking/</guid>
+        <link>http://localhost:4000/articles/wealth-visualization-Asset-tracking/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/wealth-visualization-Asset-tracking/</guid>
         
         
         <category>Organization</category>
@@ -216,8 +216,8 @@
 &lt;p&gt;&lt;a href=&quot;/testimonials/beck-locey-testimonial&quot; target=&quot;_blank&quot;&gt;View transcript&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Oct 2024 00:00:00 -0600</pubDate>
-        <link>http://mainstreetpulse.com/articles/beck-testimonial-family-estate/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/beck-testimonial-family-estate/</guid>
+        <link>http://localhost:4000/articles/beck-testimonial-family-estate/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/beck-testimonial-family-estate/</guid>
         
         
         <category>Family Estate Planning</category>
@@ -331,8 +331,8 @@
 &lt;p&gt;Having one place to organize and track all your wealth will make it much easier for your family to understand and know what needs to be done. When everything is in one spot, it removes confusion and provides clarity on your financial situation. &lt;a href=&quot;https://mainstreetpulse.com/&quot;&gt;Main Street Pulse&lt;/a&gt; is your source of truth and can help you show your family what you have and how everything is set up. It offers a clear view of your assets, investments, and other important financial details. Sign up for a free account today and start managing your family estate efficiently. Take control of your financial future and make it simpler for your loved ones to navigate.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Oct 2024 00:00:00 -0600</pubDate>
-        <link>http://mainstreetpulse.com/articles/Managing-Family-Estate-Planning/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/Managing-Family-Estate-Planning/</guid>
+        <link>http://localhost:4000/articles/Managing-Family-Estate-Planning/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Managing-Family-Estate-Planning/</guid>
         
         
         <category>Family Estate Planning</category>
@@ -386,8 +386,8 @@
 &lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Sep 2024 00:00:00 -0600</pubDate>
-        <link>http://mainstreetpulse.com/articles/your-source-of-truth-for-real-estate/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/your-source-of-truth-for-real-estate/</guid>
+        <link>http://localhost:4000/articles/your-source-of-truth-for-real-estate/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/your-source-of-truth-for-real-estate/</guid>
         
         
         <category>Business</category>
@@ -400,8 +400,8 @@
 &lt;p&gt;&lt;a href=&quot;/testimonials/jim-anderson-testimonial&quot; target=&quot;_blank&quot;&gt;View transcript&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Sep 2024 00:00:00 -0600</pubDate>
-        <link>http://mainstreetpulse.com/articles/jim-testimonial-partnership-planning/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/jim-testimonial-partnership-planning/</guid>
+        <link>http://localhost:4000/articles/jim-testimonial-partnership-planning/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/jim-testimonial-partnership-planning/</guid>
         
         
         <category>Partnerships</category>
@@ -466,8 +466,8 @@
 &lt;p&gt;Don’t let important details slip through the cracks. &lt;a href=&quot;https://app.mainstreetpulse.com/register&quot;&gt;Start using Main Street Pulse today&lt;/a&gt; and experience how easy it can be to stay informed, aligned, and ahead of the game. With MSP, you can visualize your wealth, organize your assets, and focus on what truly matters—growing your business together.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Aug 2024 00:00:00 -0600</pubDate>
-        <link>http://mainstreetpulse.com/articles/power-of-sharing-with-your-partner/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/power-of-sharing-with-your-partner/</guid>
+        <link>http://localhost:4000/articles/power-of-sharing-with-your-partner/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/power-of-sharing-with-your-partner/</guid>
         
         
         <category>Business</category>
@@ -508,8 +508,8 @@
 &lt;p class=&quot;small secondary-text&quot;&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Main Street Pulse does not endorse or provide financial, legal, or tax advice. The information provided is for general informational purposes only and should not be considered as professional advice. We encourage you to consult with a licensed professional for advice specific to your individual circumstances.&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Aug 2024 00:00:00 -0600</pubDate>
-        <link>http://mainstreetpulse.com/articles/convert-your-llc-to-s-corp/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/convert-your-llc-to-s-corp/</guid>
+        <link>http://localhost:4000/articles/convert-your-llc-to-s-corp/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/convert-your-llc-to-s-corp/</guid>
         
         
         <category>Business</category>
@@ -547,8 +547,8 @@
 &lt;p&gt;If you need help with this process, contact Done For Your Real Estate. They are your boots on the ground and can help with most of the steps so you can get into the investment game sooner. &lt;a href=&quot;/partners/done-for-you-real-estate/&quot;&gt;Learn more about their process here&lt;/a&gt; and make sure to tell them Main Street Pulse sent you.&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Jul 2024 00:00:00 -0600</pubDate>
-        <link>http://mainstreetpulse.com/articles/real-estate-step-by-step-guide/</link>
-        <guid isPermaLink="true">http://mainstreetpulse.com/articles/real-estate-step-by-step-guide/</guid>
+        <link>http://localhost:4000/articles/real-estate-step-by-step-guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/real-estate-step-by-step-guide/</guid>
         
         
         <category>Real-estate</category>

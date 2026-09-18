@@ -4,6 +4,8 @@
   "description": "A simple but clean Bootstrap 5 HTML template from Templatedeck and modified by https://325studio.com.",
   "main": "index.js",
   "scripts": {
+    "dev": "bundle check || bundle install && bundle exec jekyll serve --livereload",
+    "build": "bundle exec jekyll build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

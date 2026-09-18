@@ -1,0 +1,168 @@
+---
+layout: default
+---
+<div class="w-100 overflow-hidden">
+  <div class="container-fluid bg-hero-custom">
+    
+    <div class="container py-vh-5">
+      <div class="row d-flex justify-content-between align-items-center">
+        <div class="col-lg-6 py-vh-3 order-sm-2">
+          <h1 class="display-3 fw-bold mt-5 py-3">
+            Everything you own. <br class="hidden sm:block" />
+            <span class="text-transparent bg-clip-text bg-gradient-to-r from-primary to-indigo-400">
+                One place to run it.
+            </span>
+          </h1>
+          <p class="lead">
+            Track your properties, companies, income, and tax details in a single, organized system—built for founders and DIY investors who want clarity without complexity.
+            <br /><br />
+            Founder Suite replaces spreadsheets, scattered notes, and half-finished tools with one simple place to see how everything you’re building fits together.
+          </p>
+          <!-- <a class="btn btn-primary btn-xl shadow me-1 my-1" href="{{ site.data.settings.basic_settings.register }}">
+            Sign up now
+          </a>
+          <p class="small mt-2"><i class="bi bi-shield-check"></i> Secure and Reliable Data Protection</p> -->
+        </div>
+        <div class="col-lg-6 py-vh-lg-5 mt-lg-5 order-sm-1 order-1">
+          <!-- Dashboard Preview with Hotspots (Bootstrap tooltips) -->
+          <div class="position-relative" style="max-width: 500px; margin: 0 auto;">
+            <img src="{{ site.url }}/assets/images/dashboard.png" alt="Dashboard Preview" class="img-fluid rounded shadow" style="width:100%; height:auto;">
+
+            <!-- Hotspot: Portfolio Overview -->
+            <button type="button" class="btn btn-primary position-absolute p-0 rounded-circle" data-bs-toggle="tooltip" data-bs-placement="top" title="See a high-level summary of your net worth, total income, and property performance in real-time." style="left:20%; top:31%; width:32px; height:32px; transform:translate(-50%,-50%);">
+              <i class="bi bi-info-circle"></i>
+            </button>
+            <!-- Hotspot: Planning Tools -->
+            <button type="button" class="btn btn-primary position-absolute p-0 rounded-circle" data-bs-toggle="tooltip" data-bs-placement="top" title="Plan your future with tools like net worth planning, property forecasting, and tax planning." style="left:38%; top:43%; width:32px; height:32px; transform:translate(-50%,-50%);">
+              <i class="bi bi-info-circle"></i>
+            </button>
+            <!-- Hotspot: Reminders -->
+            <button type="button" class="btn btn-primary position-absolute p-0 rounded-circle" data-bs-toggle="tooltip" data-bs-placement="top" title="Reminders for important dates, deadlines, and events." style="left:20%; top:15%; width:32px; height:32px; transform:translate(-50%,-50%);">
+              <i class="bi bi-info-circle"></i>
+            </button>
+            <!-- Hotspot: AI Powered Help -->
+            <button type="button" class="btn btn-primary position-absolute p-0 rounded-circle" data-bs-toggle="tooltip" data-bs-placement="top" title="Get instant help with your properties, companies, and planning." style="left:79%; top:15%; width:32px; height:32px; transform:translate(-50%,-50%);">
+              <i class="bi bi-info-circle"></i>
+            </button>
+          </div>
+          <script>
+            document.addEventListener('DOMContentLoaded', function () {
+              var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+              tooltipTriggerList.forEach(function (tooltipTriggerEl) {
+                new bootstrap.Tooltip(tooltipTriggerEl);
+              });
+            });
+          </script>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+{% include waitlist.html %}
+
+<div class="py-vh-4 w-100 overflow-hidden text-dark">
+  <div class="container">
+    <div class="row d-flex justify-content-between align-items-center">
+      <div class="col-lg-6">
+        <h2 class="h1">See how Founder Suite is being used</h2>
+        <blockquote>
+          <div class="fs-4 my-3 fw-light pt-4 border-bottom pb-3">&#8220;I love to go into a meeting with my partners, pull Main Street Pulse up and you can quickly and easily see your entire portfolio, drill into a certain property, and talk about the strategy around that.&#8221;</div>
+          <span>
+            <span class="fw-bold">Jim Anderson,</span>
+            Real Estate Investor
+          </span>
+        </blockquote>
+        <a class="btn btn-light btn-xl shadow-sm me-1 my-1 mt-4" href="/testimonials/">
+          View more
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MnhCcRwYTHo?si=XAPGlotyQZIWcmdz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="py-vh-4 w-100 overflow-hidden bg-hero-custom">
+  <div class="container">
+    <div class="row d-flex justify-content-between align-items-center">
+      <div class="col-lg-5">
+        <h2>You'll never be more organized</h2>
+        <p>Staying organized is a real challenge, and spreadsheets aren't the answer. Founder Suite organizes all of your asset information in a single tool.
+        </p>
+        <ul>
+          <li>All your real estate properties in one place</li>
+          <li>Manage all your business entities and assets</li>
+          <li>Track your real estate loan details</li>
+          <li>Organize any property management or HOA information</li>
+        </ul>
+        <a class="btn btn-dark btn-xl shadow-sm me-1 my-1" href="/organize/">
+          Learn more
+        </a>
+      </div>
+      <div class="col-lg-7">
+        <img src="../assets/images/main-organized.png" alt="Be organized" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="py-vh-4 w-100 overflow-hidden">
+  <div class="container">
+    <div class="row d-flex justify-content-between align-items-center">
+      <div class="col-lg-5 order-2">
+          <h2>Track important dates</h2>
+          <p>Missing a critical date can be costly, so Founder Suite provides a digest of activities and alerts when items are coming due.</p>
+          <h3 class="h5">Get reminders for:</h3>
+          <ul>
+            <li>Loan payment</li>
+            <li>Insurance payment</li>
+            <li>Business entity renewal</li>
+            <li>Registered agent renewal</li>
+            <li>FinCEN compliance reminder</li>
+          </ul>
+          <a class="btn btn-dark btn-xl shadow-sm me-1 my-1 mt-4" href="/tracking/">
+            Learn more
+          </a>
+      </div>
+      <div class="col-lg-7">
+        <img src="../assets/images/track-dates.png" alt="Track important dates" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="py-vh-4 w-100 overflow-hidden bg-hero-custom">
+  <div class="container">
+    <div class="row d-flex justify-content-between align-items-center">
+      <div class="col-lg-5">
+          <h2>Visualize Your Wealth with the Wealth Funnel</h2>
+          <p>See how your real estate, businesses, and assets are organized to build your wealth. This tool is designed to help real estate investors like you understand and manage your financial structure from the ground up.</p>
+          <a class="btn btn-dark btn-xl shadow-sm me-1 my-1 mt-4" href="/visualize/">
+            Learn more
+          </a>
+      </div>
+      <div class="col-lg-7 order-1">
+        <img src="../assets/images/visualize.png" alt="Wealth Funnel" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include waitlist.html %}
+
+<div class="py-vh-4 w-100 overflow-hidden">
+  <div class="container">
+    <div class="row d-flex justify-content-between align-items-center">
+      <div class="col-lg-5 order-1">
+        <h2>Share information safely</h2>
+        <p>Sharing information can be a challenge, especially when it comes to sensitive data. With Main Street Pulse, you can rest assured that your data is in safe hands as you securely share it with your partners, vendors, CPAs, and attorneys.</p>
+      </div>
+      <div class="col-lg-7 order-2">
+        <img src="../assets/images/sharing.png" alt="Share information safely" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>

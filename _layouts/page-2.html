@@ -2,23 +2,6 @@
   <body data-bs-spy="scroll" data-bs-target="#navScroll">
   {% include nav.html %}
   <main>
-    <div class="w-100 overflow-hidden {{ page.text_color }}">
-      <div class="container-fluid {{ page.banner_color }}">
-        
-        <div class="container">
-          <div class="row d-flex justify-content-between align-items-center">
-            <div class="col-lg-10 py-vh-5">
-              <h1 class="display-3 fw-bold mt-5 pt-3">{{ page.title }}</h1>
-              <p class="lead">{{ page.description }}</p>
-              {% if page.last_update %}
-              <p><span class="badge bg-light text-dark">{{ page.last_update }}</span></p>
-              {% endif %}
-            </div>
-          </div>
-        </div>
-        
-      </div>
-    </div>
     {{ content }}
   </main>
   {% include footer.html %}

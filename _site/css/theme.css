@@ -48,7 +48,7 @@
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
   --bs-font-sans-serif: "Inter", system-ui, -apple-system, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --bs-font-serif: "Cormorant Garamond", system-ui, -apple-system, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-serif: "Fraunces", system-ui, -apple-system, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
@@ -9094,10 +9094,10 @@ img {
   background-position: center center; }
 
 .bg-cta-custom {
-  background: #00303c; }
+  background: #0b3a6e; }
 
 .bg-hero-custom {
-  background: #f7f6f2; }
+  background: #f6f3ee; }
 
 .bg-form-custom {
   background-color: #229155;
@@ -10077,3 +10077,5 @@ img {
   background-color: #ffffff !important;
   font-weight: 500;
 }
+
+/* HoldWise landing styles live in css/landing.css */
