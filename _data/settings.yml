@@ -1,10 +1,10 @@
 basic_settings:
   url: https://mainstreetpulse.com
-  title: Hold Wise
-  full_title: Hold Wise by Main Street Pulse
-  title_byline: By Main Street Pulse
+  title: Main Street Pulse
+  full_title: Main Street Pulse
+  title_byline:
   tagline: Everything you own. One place to run it.
-  description: Hold Wise by Main Street Pulse helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
+  description: Main Street Pulse helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
   logo: 
   logo_width: 160
   seo_image: main-street-pulse-banner.png
@@ -53,7 +53,7 @@ social_settings:
 schema:
   type: SoftwareApplication
   # name: Same as title above
-  alternateName: HoldWise # intentionally kept one-word: captures the pre-rebrand name for search
+  alternateName: MSP
   # image: Same as logo above
   # telephone: Same as phone above
   address:

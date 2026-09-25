@@ -2,7 +2,7 @@
 layout: post
 title: "Beck Locey Testimonial"
 author: 
-description: "Family estate planning and how Hold Wise by Main Street Pulse can help families stay updated and organized."
+description: "Family estate planning and how Main Street Pulse can help families stay updated and organized."
 category: 'Family Estate Planning'
 image: /assets/articles/beck-testimonial.png
 ---

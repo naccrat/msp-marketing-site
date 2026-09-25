@@ -39,24 +39,24 @@ In a busy business environment, it can be challenging to keep everyone informed.
 
 Staying informed isn't just about regular communication—it's about having access to the right information at the right time. Whether tracking business performance, keeping up with board meeting dates, or managing assets, having a streamlined approach to information sharing is crucial. This ensures that you and your partner are always on the same page, ready to tackle whatever comes your way.
 
-<h3>How Hold Wise by Main Street Pulse Facilitates Information Sharing</h3>
+<h3>How Main Street Pulse Facilitates Information Sharing</h3>
 
-This is where Hold Wise comes into play. Hold Wise is designed to make sharing information with your business partner as seamless as possible, ensuring that both of you have the tools needed to collaborate effectively.
+This is where Main Street Pulse comes into play. Main Street Pulse is designed to make sharing information with your business partner as seamless as possible, ensuring that both of you have the tools needed to collaborate effectively.
 
 <ul>
   <li>
-<strong>Visualize Your Business and Assets:</strong> One of the standout features of Hold Wise is its ability to visualize your entire business structure, including all your assets and investments. This feature gives you and your partner a clear, visual representation of how everything is connected—from your LLCs and real estate properties to your personal assets and business entities. This bird's-eye view simplifies complex information, making it easier to discuss and strategize.
+<strong>Visualize Your Business and Assets:</strong> One of the standout features of Main Street Pulse is its ability to visualize your entire business structure, including all your assets and investments. This feature gives you and your partner a clear, visual representation of how everything is connected—from your LLCs and real estate properties to your personal assets and business entities. This bird's-eye view simplifies complex information, making it easier to discuss and strategize.
 </li>
   <li>
-<strong>Integrated Document Storage:</strong> Hold Wise also offers integrated document storage, so all your important files—like contracts, meeting agendas, and financial statements—are stored securely in one place. This feature ensures that you and your partner can access the documents you need anytime and anywhere without digging through emails or file cabinets.
+<strong>Integrated Document Storage:</strong> Main Street Pulse also offers integrated document storage, so all your important files—like contracts, meeting agendas, and financial statements—are stored securely in one place. This feature ensures that you and your partner can access the documents you need anytime and anywhere without digging through emails or file cabinets.
 </li>
   <li>
-<strong>Stay Informed with Alerts and Updates:</strong> Hold Wise informs you and your partner with timely alerts and updates. Hold Wise ensures you both have the latest information, whether it's a reminder for an upcoming board meeting or an update on a critical financial decision.
+<strong>Stay Informed with Alerts and Updates:</strong> Main Street Pulse informs you and your partner with timely alerts and updates. Main Street Pulse ensures you both have the latest information, whether it's a reminder for an upcoming board meeting or an update on a critical financial decision.
 </li>
 </ul>
 
 In today's fast-paced business world, the success of a partnership hinges on effective communication and collaboration. By consistently sharing information and keeping each other informed, you and your partner can make better decisions, align your goals, and solve problems more efficiently.
 
-Hold Wise is here to support that collaboration. With features like business and asset <a href="/visualize/">visualization</a>, integrated <a href="/documents/">document storage</a>, and <a href="/tracking/">monthly updates</a>, Hold Wise ensures that you and your partner have everything you need to succeed. Whether you're tracking real estate, managing assets, or planning for the future, Hold Wise simplifies the process and keeps your partnership strong.
+Main Street Pulse is here to support that collaboration. With features like business and asset <a href="/visualize/">visualization</a>, integrated <a href="/documents/">document storage</a>, and <a href="/tracking/">monthly updates</a>, Main Street Pulse ensures that you and your partner have everything you need to succeed. Whether you're tracking real estate, managing assets, or planning for the future, Main Street Pulse simplifies the process and keeps your partnership strong.
 
-Don't let important details slip through the cracks. <a href="https://app.mainstreetpulse.com/register">Start using Hold Wise today</a> and experience how easy it can be to stay informed, aligned, and ahead of the game. With Hold Wise, you can visualize your wealth, organize your assets, and focus on what truly matters&mdash;growing your business together.
+Don't let important details slip through the cracks. <a href="https://app.mainstreetpulse.com/register">Start using Main Street Pulse today</a> and experience how easy it can be to stay informed, aligned, and ahead of the game. With Main Street Pulse, you can visualize your wealth, organize your assets, and focus on what truly matters&mdash;growing your business together.

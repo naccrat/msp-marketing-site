@@ -2,7 +2,7 @@
 layout: post
 title: "Helping Families and Individuals Manage Their Estate"
 author: Tony Naccarato
-description: "Hold Wise by Main Street Pulse can help families and individuals manage their estate and wealth"
+description: "Main Street Pulse can help families and individuals manage their estate and wealth"
 category: 'Family Estate Planning'
 image: /assets/articles/family-estate-managing.jpg
 ---
@@ -23,19 +23,19 @@ image: /assets/articles/family-estate-managing.jpg
 <h2>Importance of Centralizing Information</h2>
 <p>Given the multitude of holdings, centralizing information becomes crucial. A well-organized system can help families manage their real estate and assets more effectively, ensuring that important details are easily accessible when needed.</p>
 
-<h2>Hold Wise</h2>
-<p>Managing real estate holdings can often be complex, mainly when information is scattered among family members. Hold Wise offers a centralized solution to streamline family asset management and helps with estate planning.</p>
+<h2>Main Street Pulse</h2>
+<p>Managing real estate holdings can often be complex, mainly when information is scattered among family members. Main Street Pulse offers a centralized solution to streamline family asset management and helps with estate planning.</p>
 
-<h3>Features of Hold Wise for Managing Assets</h3>
+<h3>Features of Main Street Pulse for Managing Assets</h3>
 <ul>
     <li><strong>Organize Properties:</strong> Keep track of all properties in one place.</li>
     <li><strong>Visualize Ownership:</strong> Easily see which entities are involved in property ownership.</li>
     <li><strong>Share Information:</strong> Effortlessly share details with siblings, trustees, bankers, or anyone else who needs access to the information.</li>
 </ul>
 <blockquote>
-    "Being able to manage everything in Hold Wise has been a game changer." <br>&mdash;Beck Locey
+    "Being able to manage everything in Main Street Pulse has been a game changer." <br>&mdash;Beck Locey
 </blockquote>
-<p>With Hold Wise, families can:</p>
+<p>With Main Street Pulse, families can:</p>
 <ul>
     <li><strong>Centralize Information:</strong> Avoid the confusion of having information spread across different family members.</li>
     <li><strong>Track Important Contacts:</strong> Keep tabs on property managers, taxing authorities, escrow agents, and more.</li>

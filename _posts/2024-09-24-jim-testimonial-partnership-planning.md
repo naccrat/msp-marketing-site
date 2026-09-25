@@ -2,7 +2,7 @@
 layout: post
 title: "Jim Anderson Testimonial"
 author: 
-description: "Hold Wise by Main Street Pulse helps partnerships with planning and meetings."
+description: "Main Street Pulse helps partnerships with planning and meetings."
 category: 'Partnerships'
 image: /assets/articles/jim-testimonial.png
 ---

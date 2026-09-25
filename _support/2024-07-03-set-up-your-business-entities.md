@@ -2,9 +2,9 @@
 layout: support
 title: "Set Up Your Business Entities"
 author: Main Street Pulse
-description: "Learn how to set up your business entities in Hold Wise by Main Street Pulse."
+description: "Learn how to set up your business entities in Main Street Pulse."
 ---
-<p>Hold Wise can track your business entities, whether active or passive income businesses. The business entities that you can set up are:</p>
+<p>Main Street Pulse can track your business entities, whether active or passive income businesses. The business entities that you can set up are:</p>
 <ul>
   <li>C-corp</li>
   <li>DBA</li>
@@ -29,7 +29,7 @@ description: "Learn how to set up your business entities in Hold Wise by Main St
   <li>Beneficiaries</li>
   <li>Documents (coming soon)</li>
 </ul>
-<p>The more information you enter, the more Hold Wise can help you track and be alerted to upcoming dates.</p>
+<p>The more information you enter, the more Main Street Pulse can help you track and be alerted to upcoming dates.</p>
 <p><img src="/assets/support/business-details.png" alt="Business details page" class="w-75 img-thumbnail img-fluid"></p>
 <p>Each month, the Monthly Pulse email reminds you of the business renewal date, registered agent renewal, and FinCEN registration. More reminders will be coming soon.</p>
 <p>Those with an ordinary income business, are you taking advantage of a solo 401k? <a href="https://www.solo401k.com/?via=main-street-pulse" target="_blank">Learn more from our partner.</a></p>
