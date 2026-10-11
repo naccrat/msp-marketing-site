@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/real-estate-millionaire/</loc>
+      <loc>http://localhost:4000/articles/real-estate-millionaire/</loc>
       
         <lastmod>2025-03-07T00:00:00-07:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/helping-families-manage-their-estate/</loc>
+      <loc>http://localhost:4000/articles/helping-families-manage-their-estate/</loc>
       
         <lastmod>2024-12-06T00:00:00-07:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/wealth-visualization-Asset-tracking/</loc>
+      <loc>http://localhost:4000/articles/wealth-visualization-Asset-tracking/</loc>
       
         <lastmod>2024-11-22T00:00:00-07:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/beck-testimonial-family-estate/</loc>
+      <loc>http://localhost:4000/articles/beck-testimonial-family-estate/</loc>
       
         <lastmod>2024-10-17T00:00:00-06:00</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/Managing-Family-Estate-Planning/</loc>
+      <loc>http://localhost:4000/articles/Managing-Family-Estate-Planning/</loc>
       
         <lastmod>2024-10-01T00:00:00-06:00</lastmod>
       
@@ -78,7 +78,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/your-source-of-truth-for-real-estate/</loc>
+      <loc>http://localhost:4000/articles/your-source-of-truth-for-real-estate/</loc>
       
         <lastmod>2024-09-26T00:00:00-06:00</lastmod>
       
@@ -93,7 +93,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/jim-testimonial-partnership-planning/</loc>
+      <loc>http://localhost:4000/articles/jim-testimonial-partnership-planning/</loc>
       
         <lastmod>2024-09-24T00:00:00-06:00</lastmod>
       
@@ -108,7 +108,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/power-of-sharing-with-your-partner/</loc>
+      <loc>http://localhost:4000/articles/power-of-sharing-with-your-partner/</loc>
       
         <lastmod>2024-08-30T00:00:00-06:00</lastmod>
       
@@ -123,7 +123,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/convert-your-llc-to-s-corp/</loc>
+      <loc>http://localhost:4000/articles/convert-your-llc-to-s-corp/</loc>
       
         <lastmod>2024-08-06T00:00:00-06:00</lastmod>
       
@@ -138,7 +138,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/real-estate-step-by-step-guide/</loc>
+      <loc>http://localhost:4000/articles/real-estate-step-by-step-guide/</loc>
       
         <lastmod>2024-07-21T00:00:00-06:00</lastmod>
       
@@ -153,7 +153,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/power-of-business-enitity-management/</loc>
+      <loc>http://localhost:4000/articles/power-of-business-enitity-management/</loc>
       
         <lastmod>2024-07-03T00:00:00-06:00</lastmod>
       
@@ -168,7 +168,7 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/articles/Real-Estate-Smart-Organization/</loc>
+      <loc>http://localhost:4000/articles/Real-Estate-Smart-Organization/</loc>
       
         <lastmod>2024-06-28T00:00:00-06:00</lastmod>
       
@@ -184,24 +184,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/404.html</loc>
+      <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/articles/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -214,24 +199,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/client-portal/</loc>
+      <loc>http://localhost:4000/articles/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/dfy/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -244,24 +214,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/documents/</loc>
+      <loc>http://localhost:4000/client-portal/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/partners/done-for-you-real-estate/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -274,24 +229,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/entity-management/</loc>
+      <loc>http://localhost:4000/dfy/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/event-calendar/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -304,26 +244,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/event-list/</loc>
+      <loc>http://localhost:4000/documents/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/future-value-calculator/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -336,24 +259,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/</loc>
+      <loc>http://localhost:4000/partners/done-for-you-real-estate/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/css/landing.css</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -366,24 +274,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/mortgage-calculator/</loc>
+      <loc>http://localhost:4000/entity-management/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/organize/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -396,24 +289,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/out-of-pocket-calculator/</loc>
+      <loc>http://localhost:4000/event-calendar/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/partner-resources/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -426,69 +304,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/payment/</loc>
+      <loc>http://localhost:4000/event-list/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/privacy-policy/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/property-analysis-tool/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/security/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/sharing/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -503,24 +321,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/support/</loc>
+      <loc>http://localhost:4000/future-value-calculator/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/terms-of-service/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -533,24 +336,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/testimonials/</loc>
+      <loc>http://localhost:4000/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/css/theme.css</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -563,24 +351,9 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/tools/</loc>
+      <loc>http://localhost:4000/css/landing.css</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://mainstreetpulse.com/tracking/</loc>
-      
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -593,9 +366,236 @@
   
     
     <url>
-      <loc>http://mainstreetpulse.com/visualize/</loc>
+      <loc>http://localhost:4000/mortgage-calculator/</loc>
       
-        <lastmod>2026-09-25T13:38:44-06:00</lastmod>
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/organize/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/out-of-pocket-calculator/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/partner-resources/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/payment/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/privacy-policy/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/property-analysis-tool/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/security/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/sharing/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/support/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/terms-of-service/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/testimonials/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/css/theme.css</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/tools/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/tracking/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/visualize/</loc>
+      
+        <lastmod>2026-10-11T15:30:48-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

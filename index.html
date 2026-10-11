@@ -2,20 +2,26 @@
 layout: default
 title: Everything you own. One place to run it.
 description: Main Street Pulse helps DIY real estate investors organize properties and business entities in one place—so you always know where things stand.
-image: hero-people.png
+image: hero-real-estate.png
 ---
 <div class="hw-page">
 
   <section class="hw-hero">
     <div class="container">
-      <p class="hw-kicker">The modern way to run what you own</p>
-      <h1 class="hw-display">Everything you own.<br>One place to run it.</h1>
-      <p class="hw-lede">Main Street Pulse brings your real estate properties and business entities into one clear view—so DIY investors always know where things stand.</p>
+      <div class="hw-hero-grid">
+        <div class="hw-hero-copy">
+          <p class="hw-kicker">The modern way to run what you own</p>
+          <h1 class="hw-display">Everything you own.<br>One place to run it.</h1>
+          <p class="hw-lede">Main Street Pulse brings your real estate properties and business entities into one clear view—so DIY investors always know where things stand.</p>
 
-      <a class="hw-btn hw-btn-lg" href="{{ site.data.settings.basic_settings.register }}">Sign up for free</a>
+          <a class="hw-btn hw-btn-lg" href="{{ site.data.settings.basic_settings.register }}">Sign up for free</a>
+        </div>
 
-      <div class="hw-hero-photo">
-        <img src="/assets/images/hero-people.png" alt="Partners reviewing their portfolio together in Main Street Pulse">
+        <div class="hw-hero-slides" aria-label="Main Street Pulse screenshots">
+          <img class="is-active" src="/assets/images/hero-real-estate.png" alt="Real estate view showing portfolio value, equity, and cash flow per property">
+          <img src="/assets/images/hero-entities.png" alt="Business entities view listing your LLCs and upcoming dates" loading="lazy">
+          <img src="/assets/images/hero-wealth-funnel.png" alt="Wealth Funnel diagram showing how properties and entities flow up to you" loading="lazy">
+        </div>
       </div>
     </div>
   </section>
@@ -174,3 +180,16 @@ image: hero-people.png
   </section>
 
 </div>
+
+<script>
+  (function () {
+    var slides = document.querySelectorAll('.hw-hero-slides img');
+    if (slides.length < 2 || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    var i = 0;
+    setInterval(function () {
+      slides[i].classList.remove('is-active');
+      i = (i + 1) % slides.length;
+      slides[i].classList.add('is-active');
+    }, 4000);
+  })();
+</script>
