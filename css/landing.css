@@ -174,25 +174,35 @@ body {
   border-radius: 1.5rem;
   box-shadow: 0 28px 70px rgba(11, 58, 110, 0.16);
   opacity: 0;
-  transform: translateX(1.5rem) scale(0.98);
-  transition: opacity 0.8s ease, transform 0.8s ease;
+  transition: opacity 0.8s ease;
 }
 
 .hw-hero-slides img.is-active {
   opacity: 1;
-  transform: none;
 }
 
 @media (min-width: 992px) {
-  .hw-hero-grid {
-    grid-template-columns: 5fr 7fr;
-    gap: 4rem;
+  .hw-page {
+    overflow-x: clip;
   }
-}
 
-@media (prefers-reduced-motion: reduce) {
-  .hw-hero-slides img {
-    transition: none;
+  .hw-hero {
+    position: relative;
+    z-index: 2;
+  }
+
+  .hw-hero-grid {
+    grid-template-columns: 4fr 8fr;
+    gap: 5rem;
+  }
+
+  /* Overlap the section below */
+  .hw-hero-slides {
+    margin-bottom: -7rem;
+  }
+
+  .hw-hero + .hw-section {
+    padding-top: 9rem;
   }
 }
 
